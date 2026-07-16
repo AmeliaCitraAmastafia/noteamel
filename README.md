@@ -7,7 +7,7 @@ Aplikasi catatan sederhana berbasis Android yang dibangun menggunakan **Jetpack 
 Berikut adalah beberapa tampilan utama dari aplikasi MyNote. Desain antarmuka menggunakan palet warna pastel yang lembut untuk memberikan kesan nyaman dan fokus saat mencatat:
 
 1. **Dashboard (Kosong)**: Tampilan awal yang minimalis dengan ilustrasi dan teks panduan ("Belum ada catatan"), memudahkan pengguna baru untuk memahami cara memulai aplikasi melalui tombol Floating Action Button (FAB).
-<img width="1080" height="2340" alt="Screenshot_20260716_065451" src="https://github.com/user-attachments/assets/873db507-04a5-483b-bc4f-4a09647ef115" />
+<img height="320" alt="Screenshot_20260716_065451" src="https://github.com/user-attachments/assets/873db507-04a5-483b-bc4f-4a09647ef115" />
 
 2. **Editor Catatan**: Ruang menulis yang bersih dengan fitur pemilihan 6 warna tema pastel (Kuning, Hijau, Biru, Pink, Ungu, Oranye). Warna aplikasi akan berubah secara dinamis sesuai pilihan untuk memberikan pengalaman personal.
 <img width="1080" height="2340" alt="Screenshot_20260716_065417" src="https://github.com/user-attachments/assets/9591e632-6e47-4a03-bcda-2e748ad9c2b0" />
