@@ -3,8 +3,20 @@
 Aplikasi catatan sederhana berbasis Android yang dibangun menggunakan **Jetpack Compose**. Aplikasi ini dirancang untuk memudahkan pengguna mencatat ide, tugas, atau memo harian dengan antarmuka yang modern dan responsif.
 
 ## 📸 Tampilan Aplikasi
-*(Silakan tambahkan gambar tampilan aplikasi di sini)*
-<!-- Contoh: ![Dashboard MyNote](screenshot_path.png) -->
+
+Berikut adalah beberapa tampilan utama dari aplikasi MyNote. Desain antarmuka menggunakan palet warna pastel yang lembut untuk memberikan kesan nyaman dan fokus saat mencatat:
+
+1. **Dashboard (Kosong)**: Tampilan awal yang minimalis dengan ilustrasi dan teks panduan ("Belum ada catatan"), memudahkan pengguna baru untuk memahami cara memulai aplikasi melalui tombol Floating Action Button (FAB).
+<img width="1080" height="2340" alt="Screenshot_20260716_065451" src="https://github.com/user-attachments/assets/873db507-04a5-483b-bc4f-4a09647ef115" />
+
+2. **Editor Catatan**: Ruang menulis yang bersih dengan fitur pemilihan 6 warna tema pastel (Kuning, Hijau, Biru, Pink, Ungu, Oranye). Warna aplikasi akan berubah secara dinamis sesuai pilihan untuk memberikan pengalaman personal.
+<img width="1080" height="2340" alt="Screenshot_20260716_065417" src="https://github.com/user-attachments/assets/9591e632-6e47-4a03-bcda-2e748ad9c2b0" />
+
+
+3. **Dashboard (Berisi)**: Daftar catatan dalam bentuk kartu yang dinamis. Terdapat fitur "Pin" dengan ikon push-pin untuk menandai catatan penting, serta label waktu yang menunjukkan kapan catatan terakhir kali diubah.
+<img width="1080" height="2340" alt="Screenshot_20260716_065347" src="https://github.com/user-attachments/assets/e1fb1925-fccd-4239-8a32-e71f863e3bdb" />
+
+
 
 ## ✨ Fitur Utama
 - **Dashboard Catatan**: Menampilkan semua catatan dalam bentuk kartu yang rapi.
