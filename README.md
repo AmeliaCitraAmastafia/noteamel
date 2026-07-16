@@ -39,5 +39,3 @@ Berikut adalah beberapa tampilan utama dari aplikasi MyNote. Desain antarmuka me
 3. Tunggu proses Gradle Sync selesai.
 4. Jalankan aplikasi di Emulator atau perangkat fisik Android.
 
----
-*Dibuat untuk tugas mata kuliah Pemrograman Mobile.*
